@@ -1,0 +1,7 @@
+01:13
+	创建项目使用的数据库
+	create database EmsYc;
+	
+01：21
+	创建项目测试使用的表格
+	create table test(Tname varchar(20),Ttxt varchar(20));
